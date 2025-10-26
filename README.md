@@ -1,1 +1,1 @@
-All projects can be found at https://git.arun.cloud/arun
+I host my main projects on a private Git server.
